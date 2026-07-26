@@ -1,4 +1,4 @@
-# Customer Behaviour Analysis
+# Customer Behavior Analysis
 
 ## Objective
 Analyze customer transactions and behavior to identify customer segments, purchase patterns, and churn risks using Python.
